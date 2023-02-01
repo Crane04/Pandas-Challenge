@@ -5,3 +5,23 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Your final report should include each of the following:
 <h2>District Summary</h2>
+<li>Total Schools</li>
+<li>Total Students</li>
+<li>Total Budget</li>
+<li>Average Math Score</li>
+<li>Average Reading Score</li>
+<li>% Passing Math</li>
+<li>% Passing Reading</li>
+<li>Overall Passing Rate (Average of the above two)</li>
+
+<h2>Create an overview table that summarizes key metrics about each school, including:</h2>
+<li>School Name</li>
+<li>School Type</li>
+<li>Total Students</li>
+<li>Total School Budgets</li>
+<li>Per Student Budgete</li>
+<li>Average math Score</li>
+<li>Average Reading Score</li>
+<li>% Passing Math</li>
+<li>% Passing Reading</li>
+<li>Overall Passing Rate (Average of the above two)</li>
