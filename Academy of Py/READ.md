@@ -30,7 +30,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 <h2>Top Performing Schools (By Passing Rate)</h2>
 <h3>Create a table that highlights the top 5 performing schools based on Overall Passing Rate</h3>
 
-<p style="color:red">I haven't done the following </p>
+<u>I haven't done the following </u>
 <h2>Math Scores by Grade</h2>
 <h3>Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.</h3>
 
